@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1852932427173933355
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1852932427173933353}
+  - component: {fileID: 1852932427173933352}
+  m_Layer: 0
+  m_Name: UImgr(Start)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1852932427173933353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852932427173933355}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1852932427173933352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852932427173933355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c557cd70ca3144e0b1d8dea529368a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LeftButton: {fileID: 0}
+  RightButton: {fileID: 0}
+  RankType: {fileID: 0}
+  PlayerName1: {fileID: 0}
+  PlayerName2: {fileID: 0}
+  PlayerName3: {fileID: 0}
+  PlayerName4: {fileID: 0}
+  PlayerName5: {fileID: 0}
+  PlayerName6: {fileID: 0}
+  PlayerName7: {fileID: 0}
+  PlayerName8: {fileID: 0}
+  ClearTime1: {fileID: 0}
+  ClearTime2: {fileID: 0}
+  ClearTime3: {fileID: 0}
+  ClearTime4: {fileID: 0}
+  ClearTime5: {fileID: 0}
+  ClearTime6: {fileID: 0}
+  ClearTime7: {fileID: 0}
+  ClearTime8: {fileID: 0}

@@ -396,6 +396,11 @@
 "Assets/2. Scripts/Maze/2. Scripts/fall.cs"
 "Assets/2. Scripts/Maze/2. Scripts/follow_cam.cs"
 "Assets/2. Scripts/Maze/2. Scripts/FreeflightCamera.cs"
+"Assets/2. Scripts/UI/GameEndProtocols.cs"
+"Assets/2. Scripts/UI/GameEndScript.cs"
+"Assets/2. Scripts/UI/GameOverScript.cs"
+"Assets/2. Scripts/UI/GameStartProtocols.cs"
+"Assets/2. Scripts/UI/GameStartScript.cs"
 "Assets/2. Scripts/Warehouse/2. Scripts/ActivateGrab.cs"
 "Assets/2. Scripts/Warehouse/2. Scripts/BoxSound.cs"
 "Assets/2. Scripts/Warehouse/2. Scripts/DoorInstance.cs"
@@ -428,6 +433,9 @@
 "Assets/2. Scripts/Warehouse/2. Scripts/SoundBox.cs"
 "Assets/2. Scripts/Warehouse/2. Scripts/XRGrabInteractableTwoAttach.cs"
 "Assets/2. Scripts/Warehouse/2. Scripts/XROffsetGrabInteractable.cs"
+"Assets/5. Models/Ending/StudioNewPunch/UrbanGuy/Scripts/UrbanGuy_AssetsList.cs"
+"Assets/5. Models/Ending/StudioNewPunch/UrbanGuy/Scripts/UrbanGuy_CharacterCustomize.cs"
+"Assets/5. Models/Ending/StudioNewPunch/UrbanGuy/Scripts/UrbanGuy_Char_Instantiate.cs"
 -langversion:9.0
 
 /deterministic
