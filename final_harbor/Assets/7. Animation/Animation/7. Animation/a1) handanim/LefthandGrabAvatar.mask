@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LefthandGrabAvatar
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: l_handMesh
+    m_Weight: 0
+  - m_Path: p_l_wrist
+    m_Weight: 0
+  - m_Path: p_l_wrist/p_l_forearm_stub
+    m_Weight: 0
+  - m_Path: p_l_wrist/p_l_index1
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_index1/p_l_index2
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_index1/p_l_index2/p_l_index3
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_index1/p_l_index2/p_l_index3/p_l_index_null
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_middle1
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_middle1/p_l_middle2
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_middle1/p_l_middle2/p_l_middle3
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_middle1/p_l_middle2/p_l_middle3/p_l_middle_null
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_pinky0
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_pinky0/p_l_pinky1
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_pinky0/p_l_pinky1/p_l_pinky2
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_pinky0/p_l_pinky1/p_l_pinky2/p_l_pinky3
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_pinky0/p_l_pinky1/p_l_pinky2/p_l_pinky3/p_l_pinky_null
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_ring1
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_ring1/p_l_ring2
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_ring1/p_l_ring2/p_l_ring3
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_ring1/p_l_ring2/p_l_ring3/p_l_ring_null
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_thumb0
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_thumb0/p_l_thumb1
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_thumb0/p_l_thumb1/p_l_thumb2
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_thumb0/p_l_thumb1/p_l_thumb2/p_l_thumb3
+    m_Weight: 1
+  - m_Path: p_l_wrist/p_l_thumb0/p_l_thumb1/p_l_thumb2/p_l_thumb3/p_l_thumb_null
+    m_Weight: 1
