@@ -8,14 +8,14 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: UrbanGuy_Hat_MAT_V4
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ValidKeywords:
-  - _DETAIL_MULX2
-  - _NORMALMAP
+  m_Shader: {fileID: 10704, guid: 0000000000000000f000000000000000, type: 0}
+  m_ValidKeywords: []
   m_InvalidKeywords:
+  - _DETAIL_MULX2
   - _MASKMAP
   - _MASKMAP0
   - _MASKMAP1
+  - _NORMALMAP
   - _NORMALMAP0
   - _NORMALMAP1
   - _NORMALMAP_TANGENT_SPACE
