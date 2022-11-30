@@ -339,8 +339,8 @@
 -r:"/Users/leejj/Desktop/final_harbor/final_harbor/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/XR/Warehouse/Samples/XR Interaction Toolkit/2.2.0/Starter Assets/Scripts/ActionBasedControllerManager.cs"
-"Assets/XR/Warehouse/Samples/XR Interaction Toolkit/2.2.0/Starter Assets/Scripts/DynamicMoveProvider.cs"
+"Assets/XR/Samples/XR Interaction Toolkit/2.2.0/Starter Assets/Scripts/ActionBasedControllerManager.cs"
+"Assets/XR/Samples/XR Interaction Toolkit/2.2.0/Starter Assets/Scripts/DynamicMoveProvider.cs"
 -langversion:9.0
 
 /deterministic
